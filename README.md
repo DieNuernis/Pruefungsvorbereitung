@@ -1,7 +1,7 @@
 ## 📖 Weitere Inhalte
 
 Das vollständige Lern-Wiki findest du hier:  
-👉 [Zum Wiki mit Checklisten, Aufgaben und Lernressourcen](../../wiki)
+#👉 [Zum Wiki](../../wiki)
 
 Direkt zu:
 - [Prüfungstermine](../../wiki/Prüfungstermine)
