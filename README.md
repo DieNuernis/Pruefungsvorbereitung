@@ -6,5 +6,3 @@ Das vollständige Lern-Wiki findest du hier:
 Direkt zu:
 - [Prüfungstermine](../../wiki/Prüfungstermine)
 - [Websites zur Vorbereitung](../../wiki/Websites-zur-Vorbereitung)
-- [Checkliste](../../wiki/Checkliste)
-- [Aufgabenübersicht für Ausbilder](../../wiki/Aufgabenübersicht-für-Ausbilder)
